@@ -712,3 +712,21 @@ Distributed Systems
 ## 📄 License
 
 Este proyecto es de carácter educativo y puede utilizarse como referencia para el aprendizaje de Spring Boot, Apache Kafka y arquitecturas orientadas a eventos.
+
+## 📬 Contacto
+
+Para dudas, sugerencias o contribuciones:
+
+📧 [**casseli.layza@gmail.com**](mailto:casseli.layza@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/casseli-layza/) 🔗 [GitHub](https://github.com/CasseliLayza)
+
+💡 **Desarrollado por Casseli Layza como parte de un proyecto con SpringCloud / SpringBoot. Arquitectura Event Driven.**
+
+**_💚 ¡Gracias por revisar este proyecto!... Powered by Casse 🌟📚🚀...!!_**
+
+## Derechos Reservados
+
+```markdown
+© 2026 Casse. Todos los derechos reservados.
+```
